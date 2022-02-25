@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\code folder\TestProject\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1226546425.index
+860208974.index
+3172503023.index
+513773172.index
